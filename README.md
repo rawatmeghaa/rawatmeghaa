@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 Hi, I'm Megha
 
-<!--
-**rawatmeghaa/rawatmeghaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm an AWS DevOps Engineer passionate about automation and cloud-native technologies.
 
-Here are some ideas to get you started:
+💼 Working at **Zarthi**  
+📍 Based in **Noida**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Tech Stack**  
+☁️ Cloud: **AWS**, **Azure**  , **GCP**
+🛠️ DevOps: **Jenkins**, **Docker**, **Kubernetes**, **Terraform**, **CloudFormation**  
+📈 Monitoring: **Prometheus**, **Grafana**, **Datadog**  
+🧪 Security: **Trivy**, **OWASP Dependency-Check**, **SonarQube**  
+👩‍💻 Languages: **Python**, **Bash**  
+📦 CI/CD: **GitHub Actions**, **GitLab CI**, **Bitbucket Pipelines**
+
+💬 Ask me about **CI/CD**, **Cloud Infrastructure**, **Monitoring**, or **DevOps Automation**  
+📫 Reach me at: **rwtmeghna432@gmail.com**
