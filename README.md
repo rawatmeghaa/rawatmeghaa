@@ -8,7 +8,7 @@
 🔧 **Tech Stack**  
 ☁️ Cloud: **AWS**, **Azure**  , **GCP**
 🛠️ DevOps: **Jenkins**, **Docker**, **Kubernetes**, **Terraform**, **CloudFormation**  
-📈 Monitoring: **Prometheus**, **Grafana**, **Datadog**  
+📈 Monitoring: **Prometheus**, **Grafana**, **Datadog**  , **ELK** , **EFK**
 🧪 Security: **Trivy**, **OWASP Dependency-Check**, **SonarQube**  
 👩‍💻 Languages: **Python**, **Bash**  
 📦 CI/CD: **GitHub Actions**, **GitLab CI**, **Bitbucket Pipelines**
