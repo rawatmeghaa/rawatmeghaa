@@ -6,7 +6,7 @@
 📍 Based in **Noida**
 
 🔧 **Tech Stack**  
-☁️ Cloud: **AWS**, **Azure**  , **GCP**
+☁️ Cloud: **AWS** , **GCP**
 🛠️ DevOps: **Jenkins**, **Docker**, **Kubernetes**, **Terraform**, **CloudFormation**  
 📈 Monitoring: **Prometheus**, **Grafana**, **Datadog**  , **ELK** , **EFK**
 🧪 Security: **Trivy**, **OWASP Dependency-Check**, **SonarQube**  
